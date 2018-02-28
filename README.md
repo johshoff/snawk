@@ -7,3 +7,13 @@ Run with `./run.sh`.
 
 Use `h`, `j`, `k` and `l` followed by `enter` to move the snawk around. Hit
 `ctrl`+`d` to exit.
+
+    ############
+    #         o#
+    #        o #
+    #   ####  o#
+    #   ####   #
+    #   #### * #
+    #        * #
+    #      *** #
+    ############
